@@ -1,4 +1,5 @@
 
+
 -- ========================================================
 -- TalkBridge Database Schema (MySQL 8.0+)
 -- Database: talkbridge_db
